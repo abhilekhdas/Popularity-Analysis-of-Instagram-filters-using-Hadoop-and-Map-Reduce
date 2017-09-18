@@ -19,6 +19,9 @@ input, and ranks the filters by their frequencies in a decreasing order.
 
 The final output format is the default of Hadoop, which is key value pair separated by tab. 
 For example,
+
 filterAAAA 9999 
+
 filterBBB 5555 
+
 filterCC 111
